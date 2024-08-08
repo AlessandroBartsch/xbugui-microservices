@@ -10,3 +10,6 @@
 [submodule "cloud-config-service"]
 	path = cloud-config-service
 	url = git@github.com:AlessandroBartsch/cloud-config-service.git
+[submodule "bugui"]
+	path = bugui
+	url = git@github.com:AlessandroBartsch/bugui.git
