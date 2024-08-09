@@ -13,3 +13,9 @@
 [submodule "bugui"]
 	path = bugui
 	url = git@github.com:AlessandroBartsch/bugui.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = git@github.com:AlessandroBartsch/api-gateway.git
+[submodule "naming-server"]
+	path = naming-server
+	url = git@github.com:AlessandroBartsch/naming-server.git
