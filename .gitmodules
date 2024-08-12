@@ -1,9 +1,6 @@
 [submodule "bookservice"]
 	path = bookservice
 	url = git@github.com:AlessandroBartsch/bookservice.git
-[submodule "cambioservice"]
-	path = cambioservice
-	url = git@github.com:AlessandroBartsch/cambioservice.git
 [submodule "cloud-config"]
 	path = cloud-config
 	url = git@github.com:AlessandroBartsch/cloud-config.git
@@ -19,3 +16,6 @@
 [submodule "naming-server"]
 	path = naming-server
 	url = git@github.com:AlessandroBartsch/naming-server.git
+[submodule "cambioservice"]
+	path = cambioservice
+	url = git@github.com:AlessandroBartsch/cambioservice.git
